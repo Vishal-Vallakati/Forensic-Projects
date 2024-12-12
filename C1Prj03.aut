@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>2.0</SchemaVersion>
+  <CreatedDate>2023/01/23 23:56:35 (CST)</CreatedDate>
+  <ModifiedDate>2023/01/23 23:56:35 (CST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.3.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.3.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>C1Prj03</Name>
+    <Number>C1Prj03</Number>
+    <Examiner>Vishal Vallakati</Examiner>
+    <CaseType>Single-user case</CaseType>
+    <Database>C:\Users\visha\OneDrive\Desktop\Hands on\C1Prj03\autopsy.db</Database>
+    <TextIndex>c1prj03_20230123_235635</TextIndex>
+  </Case>
+</AutopsyCase>
